@@ -19,8 +19,3 @@ Segment customers based on Annual Income and Spending Score using K-Means cluste
 ## 📷 Visuals
 Includes scatter plots, histograms, and customer segments.
 
-## 🔗 Video Demo
-[Upload link here after creating your demo]
-
-## 🔗 GitHub Repository
-[Paste your GitHub repo link here]
